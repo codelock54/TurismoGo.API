@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurismoGO.API", "TurismoGO.API\TurismoGO.API.csproj", "{29CA02E2-0FFC-43C3-B378-598A5D99A29B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurismoGo.Domain", "TurismoGo.Domain\TurismoGo.Domain.csproj", "{DA669363-B2A3-468F-AA95-5EF2A56E3F16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29CA02E2-0FFC-43C3-B378-598A5D99A29B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29CA02E2-0FFC-43C3-B378-598A5D99A29B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29CA02E2-0FFC-43C3-B378-598A5D99A29B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29CA02E2-0FFC-43C3-B378-598A5D99A29B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA669363-B2A3-468F-AA95-5EF2A56E3F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA669363-B2A3-468F-AA95-5EF2A56E3F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA669363-B2A3-468F-AA95-5EF2A56E3F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA669363-B2A3-468F-AA95-5EF2A56E3F16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5F82414-E7CD-43E1-9CD3-3F9BF18B1EA2}
+	EndGlobalSection
+EndGlobal

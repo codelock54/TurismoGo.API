@@ -1,0 +1,14 @@
+C:\Users\ELIUSXD\Desktop\PROYECTO_TURISMO\TurismoGo.Api\TurismoGO.API\TurismoGo.Domain\bin\Debug\net8.0\TurismoGo.Domain.deps.json
+C:\Users\ELIUSXD\Desktop\PROYECTO_TURISMO\TurismoGo.Api\TurismoGO.API\TurismoGo.Domain\bin\Debug\net8.0\TurismoGo.Domain.runtimeconfig.json
+C:\Users\ELIUSXD\Desktop\PROYECTO_TURISMO\TurismoGo.Api\TurismoGO.API\TurismoGo.Domain\bin\Debug\net8.0\TurismoGo.Domain.dll
+C:\Users\ELIUSXD\Desktop\PROYECTO_TURISMO\TurismoGo.Api\TurismoGO.API\TurismoGo.Domain\bin\Debug\net8.0\TurismoGo.Domain.pdb
+C:\Users\ELIUSXD\Desktop\PROYECTO_TURISMO\TurismoGo.Api\TurismoGO.API\TurismoGo.Domain\obj\Debug\net8.0\TurismoGo.Domain.csproj.AssemblyReference.cache
+C:\Users\ELIUSXD\Desktop\PROYECTO_TURISMO\TurismoGo.Api\TurismoGO.API\TurismoGo.Domain\obj\Debug\net8.0\TurismoGo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELIUSXD\Desktop\PROYECTO_TURISMO\TurismoGo.Api\TurismoGO.API\TurismoGo.Domain\obj\Debug\net8.0\TurismoGo.Domain.AssemblyInfoInputs.cache
+C:\Users\ELIUSXD\Desktop\PROYECTO_TURISMO\TurismoGo.Api\TurismoGO.API\TurismoGo.Domain\obj\Debug\net8.0\TurismoGo.Domain.AssemblyInfo.cs
+C:\Users\ELIUSXD\Desktop\PROYECTO_TURISMO\TurismoGo.Api\TurismoGO.API\TurismoGo.Domain\obj\Debug\net8.0\TurismoGo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ELIUSXD\Desktop\PROYECTO_TURISMO\TurismoGo.Api\TurismoGO.API\TurismoGo.Domain\obj\Debug\net8.0\TurismoGo.Domain.dll
+C:\Users\ELIUSXD\Desktop\PROYECTO_TURISMO\TurismoGo.Api\TurismoGO.API\TurismoGo.Domain\obj\Debug\net8.0\refint\TurismoGo.Domain.dll
+C:\Users\ELIUSXD\Desktop\PROYECTO_TURISMO\TurismoGo.Api\TurismoGO.API\TurismoGo.Domain\obj\Debug\net8.0\TurismoGo.Domain.pdb
+C:\Users\ELIUSXD\Desktop\PROYECTO_TURISMO\TurismoGo.Api\TurismoGO.API\TurismoGo.Domain\obj\Debug\net8.0\TurismoGo.Domain.genruntimeconfig.cache
+C:\Users\ELIUSXD\Desktop\PROYECTO_TURISMO\TurismoGo.Api\TurismoGO.API\TurismoGo.Domain\obj\Debug\net8.0\ref\TurismoGo.Domain.dll
